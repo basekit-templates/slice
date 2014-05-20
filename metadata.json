@@ -2,6 +2,7 @@
     "name":"Slice",
     "thumbnail":"slice.png",
     "screenshot":"slice.png",
+    "templateType":"menu",
     "tags": {
     "en": ["clean", "menu", "cafe", "bar", "restaurant"],
     "es": ["limpio", "menú", "cafetería", "bar", "restaurante"],
